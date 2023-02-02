@@ -2,8 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-
-namespace HttpProxy
+namespace HttpProxy.Core
 {
     public static class HttpProxyExtensions
     {

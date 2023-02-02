@@ -1,9 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <LangVersion>default</LangVersion>
+    <AssemblyName>HttpProxy.Core</AssemblyName>
+    <RootNamespace>HttpProxy.Core</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

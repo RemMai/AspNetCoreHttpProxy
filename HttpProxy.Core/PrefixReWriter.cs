@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 
-namespace HttpProxy;
+namespace HttpProxy.Core;
 
 public class PrefixReWriter : IUrlReWriter
 {

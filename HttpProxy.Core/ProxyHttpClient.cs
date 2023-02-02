@@ -1,4 +1,4 @@
-﻿namespace HttpProxy;
+﻿namespace HttpProxy.Core;
 
 public class ProxyHttpClient
 {
